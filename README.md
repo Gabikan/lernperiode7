@@ -12,7 +12,7 @@ Als Projekt habe ich mir den Penaltyscorer überlegt oder die Tshirt Website die
 Bisschen exploriert und programmiert und ein kleines Javascript tutorial angeschaut bzw weiter gemacht wo ich gestern stand. 
 
 ## 1.11
-- [ ] Produkte speichern lassen
-- [ ] Produkte im Warenkorb anzeigen
-- [ ] Produkte bestellen
+- [ ] M320 Revision
+- [ ] M320 Cheatsheet vorbereiten
+- [ ] 
 - [ ]
