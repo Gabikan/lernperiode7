@@ -19,6 +19,15 @@ Bisschen exploriert und programmiert und ein kleines Javascript tutorial angesch
 das 320 modul repetiert und ein Mindmap erstellt da die Prüfung noch bevor steht. Ich glaube ich bin muss noch ein paar Stunden investieren um gut vorbereitet zu sein.
 
 ## 8.11
-- [ ] Modul 320 vorbereiten
-- [ ] JS Warenkorb
+- [x] Modul 320 vorbereiten
+- [x] JS Warenkorb
 - [ ]  
+
+## Heute habe ich...
+leider etwas länger am Warenkorb meiner website gebraucht da ich gewisse schwierigkeiten hatte. Ansonsten habe ich mich auch am Vortag für die LB 320 den Agenten auftrag gewidmet um zu vorbereiten.
+
+## 15.11
+- [ ]
+- [ ]
+- [ ]
+- [ ]
