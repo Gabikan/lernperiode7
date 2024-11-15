@@ -21,13 +21,12 @@ das 320 modul repetiert und ein Mindmap erstellt da die Prüfung noch bevor steh
 ## 8.11
 - [x] Modul 320 vorbereiten
 - [x] JS Warenkorb
-- [ ]  
 
 ## Heute habe ich...
 leider etwas länger am Warenkorb meiner website gebraucht da ich gewisse schwierigkeiten hatte. Ansonsten habe ich mich auch am Vortag für die LB 320 den Agenten auftrag gewidmet um zu vorbereiten.
 
 ## 15.11
-- [ ]
-- [ ]
-- [ ]
+- [ ] CRUD
+- [ ] Dart und Flutter: www.youtube.com/watch?v=wFwAkfAv3Us
+- [ ] 
 - [ ]
