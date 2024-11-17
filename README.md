@@ -30,3 +30,11 @@ leider etwas länger am Warenkorb meiner website gebraucht da ich gewisse schwie
 - [ ] Dart und Flutter: www.youtube.com/watch?v=wFwAkfAv3Us
 - [ ] 
 - [ ]
+## Heute habe ich...
+dart und flutter tutorial geschaut hatte paar probleme beim runterladen. Finde es sehr interessant wie es für alle Plattformen sich anpasst.
+
+## 22.11
+- [ ]
+- [ ]
+- [ ]
+- [ ] 
