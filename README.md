@@ -27,14 +27,21 @@ leider etwas länger am Warenkorb meiner website gebraucht da ich gewisse schwie
 
 ## 15.11
 - [ ] CRUD
-- [ ] Dart und Flutter: www.youtube.com/watch?v=wFwAkfAv3Us
+- [x] Dart und Flutter: www.youtube.com/watch?v=wFwAkfAv3Us
 - [ ] 
 - [ ]
 ## Heute habe ich...
 dart und flutter tutorial geschaut hatte paar probleme beim runterladen. Finde es sehr interessant wie es für alle Plattformen sich anpasst.
 
 ## 22.11
-- [ ]
-- [ ]
-- [ ]
-- [ ] 
+- [ ]  JS Crud
+- [ ]  JS JSON Webtoken
+
+## Heute habe ich...
+Aufträge vom Modul beendet die ich nicht beenden konnte da ich probleme hatte.
+
+## 29.11
+- [ ] LB 294
+- [ ] LB Instanz
+
+
