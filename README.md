@@ -45,3 +45,19 @@ Aufträge vom Modul beendet die ich nicht beenden konnte da ich probleme hatte.
 - [ ] LB Instanz
 
 
+## Heute habe ich...
+gearbeitet an der LB gearbeitet irgendwie ist nichts gelofen die CSS datei war immer verbugged immer fehlermeldungen war oft am verzweifeln bin dann an die andere LB rangegangen habe aber fast nichts dort gemacht.
+
+## 06.12
+- [ ] JSON BBB Server verbinden
+- [ ] GitLab
+- [ ] Testen mit Selenium
+
+## Heute habe ich...
+Ja ich habe an der LB gearbeitet und bin auch recht weit gekommen, ich wurde aber rausgeworfen weil ich das LB Blatt mitgenommen (ausversehen) und ich hätte das nicht gedürft, kann man nichts machen. 
+
+## 13.12
+- [ ] AoC?
+
+
+
