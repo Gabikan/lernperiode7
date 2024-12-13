@@ -57,7 +57,5 @@ gearbeitet an der LB gearbeitet irgendwie ist nichts gelofen die CSS datei war i
 Ja ich habe an der LB gearbeitet und bin auch recht weit gekommen, ich wurde aber rausgeworfen weil ich das LB Blatt mitgenommen (ausversehen) und ich hätte das nicht gedürft, kann man nichts machen. 
 
 ## 13.12
-- [ ] AoC?
-
-
-
+- [ ] AoC Tag 1: Input-Datei mit einem C# Programm einlesen in ein Array oder Liste; sortieren, mit dem Ziel, dass die Liate im Debugger korrekt zu sehen ist.
+- [ ] Ausgehend von dieser Liste, berechne Unterschied zwischen Elementen.
